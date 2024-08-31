@@ -11,7 +11,7 @@
 // Make the necessary code changes in the struct `ReportCard` and the impl
 // block to support alphabetical report cards in addition to numerical ones.
 
-use std::fmt::{Debug, Display};
+use std::fmt::{Display};
 
 // TODO: Adjust the struct as described above.
 struct ReportCard<T> {
